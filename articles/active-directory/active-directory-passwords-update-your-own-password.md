@@ -34,7 +34,7 @@ If you unable to access your account because of one of the following:
 * Your password is not working and you would like to reset it.
 * You know your password but your account is locked out and you would like to unlock your account.
 
-Follow the steps that follow to access Azure AD self-service password reset, SSPR as we like to call it, and get back into your account.
+Follow these steps to access Azure AD self-service password reset, SSPR as we like to call it, and get back into your account.
 
 1. From any work or school sign-in page, click the **Can't access your account?** link then click **Work or school account** or go directly to the [password reset page](https://passwordreset.microsoftonline.com/).
 
