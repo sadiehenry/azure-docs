@@ -21,7 +21,7 @@ ms.custom: it-pro
 ---
 # Reporting options for Azure AD password management
 
-Post deployment many organizations want to know how or if SSPR is really being used. Azure AD provides reporting features that help you to answer questions using canned reports and if you are appropriately licensed, allow you to create custom queries.
+Post deployment many organizations want to know how or if SSPR is really being used. Azure AD provides reporting features that help you to answer questions using canned reports and if you are appropriately licensed, allows you to create custom queries.
 
 The following questions can be answered by reports that exist in the [Azure portal] (https://portal.azure.com/).
 
